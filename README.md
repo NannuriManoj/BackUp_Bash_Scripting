@@ -1,0 +1,6 @@
+- started writing a bash scripting for backing up files.
+- Accepts files as Input.
+- Auto recreates backup folder.
+- Applies smart file naming.
+- Supports Compression with Flags.
+- Keeps a Log of All actions.
